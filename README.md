@@ -1,4 +1,4 @@
-# Quest: Shark Attacks
+# Quest: Shark Attacks 🦈
 
 ## Overview
 
