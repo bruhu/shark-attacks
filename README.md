@@ -13,6 +13,14 @@ As a team, we will start by examining the Shark Attack dataset to understand its
 
 To elevate our project, we will also define a Business Case. Throughout the project, we will utilize Python and the pandas library to implement at least five data cleaning techniques to tackle issues like missing values, duplicates, and formatting inconsistencies. After cleaning the dataset, we will conduct exploratory data analysis as a team to validate our initial hypotheses and extract meaningful insights together.
 
+## Business Problem
+
+How can insurance companies accurately assess the risk of shark-related incidents to offer appropriately priced insurance premiums for individuals and ocean activity businesses, such as surf and dive schools, based on data-driven risk factors?
+
+## Hypothesis
+
+By using exploratory data analysis, we can accurately classify activities into risk categories (low, medium, high) to inform insurance premiums for individuals and businesses.
+
 ## The Team
 
 - [johannapfeil](https://github.com/johannapfeil)
