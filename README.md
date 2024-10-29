@@ -15,11 +15,11 @@ To elevate our project, we will also define a Business Case. Throughout the proj
 
 ## Business Problem
 
-How can insurance companies accurately assess the risk of shark-related incidents to offer appropriately priced insurance premiums for individuals and ocean activity businesses, such as surf and dive schools, based on data-driven risk factors?
+How can insurance companies accurately assess the risk of shark attacks to offer appropriately priced insurance premiums for individuals and ocean activity businesses, such as surf and dive schools?
 
 ## Hypothesis
 
-By using exploratory data analysis, we can accurately classify activities into risk categories (low, medium, high) to inform insurance premiums for individuals and businesses.
+By using exploratory data analysis, we can accurately classify individuals and businesses into risk categories (low, medium, high) based on a points system to price insurance premiums more appropriately.
 
 ## The Team
 
