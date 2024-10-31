@@ -1,5 +1,7 @@
 year,country,activity,sex,age,fatal,season
 2024,USA,surfing,M,16,no,Autumn
+2024,Australia,surfing,M,23,no,Summer
+2024,Australia,surfing,M,41,no,Summer
 2024,USA,diving,M,14,no,Summer
 2024,USA,wading,M,26,no,Summer
 2024,USA,swimming,F,45,no,Summer
@@ -7,7 +9,10 @@ year,country,activity,sex,age,fatal,season
 2024,USA,swimming,F,45,no,Summer
 2024,USA,swimming,M,46,no,Summer
 2024,USA,wading,F,19,no,Spring
+2024,French Polynesia,diving,M,20,no,Spring
 2024,USA,fishing,M,65,no,Spring
+2024,Australia,fishing,M,16,no,Spring
+2024,Australia,surfing,M,26,no,Spring
 2024,Australia,swimming,F,13,unknown,Spring
 2024,USA,surfing,M,15,no,Spring
 2024,USA,swimming,F,11,no,Spring
@@ -33,6 +38,7 @@ year,country,activity,sex,age,fatal,season
 2023,Egypt,diving,M,66,no,Autumn
 2023,Australia,surfing,M,55,yes,Autumn
 2023,USA,surfing,M,30,no,Autumn
+2023,Mexico,fishing,M,59,no,Autumn
 2023,Australia,fishing,M,15,no,Autumn
 2023,USA,surfing,M,50,no,Autumn
 2023,USA,surfing,M,52,no,Autumn
@@ -46,7 +52,7 @@ year,country,activity,sex,age,fatal,season
 2023,USA,surfing,M,30,no,Autumn
 2023,USA,wading,F,37,no,Autumn
 2023,Australia,surfing,M,44,unknown,Summer
-2023,USA,wading,F,9,no,Summer
+2023,USA,wading,M,9,no,Summer
 2023,USA,fishing,M,19,no,Summer
 2023,USA,wading,F,65,no,Summer
 2023,USA,surfing,M,22,no,Summer
@@ -94,6 +100,8 @@ year,country,activity,sex,age,fatal,season
 2023,USA,surfing,M,60,no,Winter
 2023,Australia,swimming,F,16,yes,Winter
 2023,Australia,fishing,M,8,no,Winter
+2023,Mexico,diving,M,53,yes,Winter
+2022,South Africa,diving,M,26,no,Winter
 2022,USA,swimming,M,68,no,Winter
 2022,Australia,swimming,M,15,no,Winter
 2022,USA,diving,M,43,no,Winter
@@ -116,6 +124,7 @@ year,country,activity,sex,age,fatal,season
 2022,Bahamas,snorkeling,F,58,yes,Autumn
 2022,USA,swimming,F,51,no,Autumn
 2022,Australia,surfing,M,14,no,Summer
+2022,Australia,kayaking,M,15,no,Summer
 2022,USA,swimming,F,15,no,Summer
 2022,USA,standing,F,15,no,Summer
 2022,Australia,fishing,M,17,no,Summer
@@ -134,11 +143,12 @@ year,country,activity,sex,age,fatal,season
 2022,South Africa,swimming,M,15,yes,Summer
 2022,USA,swimming,M,62,no,Summer
 2022,Australia,swimming,F,15,no,Summer
-2022,Australia,surfing,F,15,no,Spring
+2022,Australia,surfing,M,15,no,Spring
 2022,Australia,diving,M,20,no,Spring
 2022,USA,fishing,M,15,no,Spring
 2022,USA,swimming,M,17,no,Spring
 2022,USA,standing,M,15,no,Spring
+2022,USA,kayaking,M,15,no,Spring
 2022,USA,fishing,M,50,no,Spring
 2022,New Zealand,surfing,M,15,no,Spring
 2022,Australia,surfing,M,32,no,Spring
@@ -157,6 +167,7 @@ year,country,activity,sex,age,fatal,season
 2022,New Zealand,swimming,F,13,no,Winter
 2022,USA,surfing,F,42,no,Winter
 2022,Australia,surfing,M,40,no,Winter
+2021,New Zealand,swimming,F,9,no,Winter
 2021,USA,surfing,F,42,no,Winter
 2021,Australia,fishing,M,24,no,Winter
 2021,Mexico,diving,M,14,no,Winter
@@ -224,6 +235,7 @@ year,country,activity,sex,age,fatal,season
 2021,New Caledonia,swimming,M,57,yes,Winter
 2021,Australia,fishing,M,15,no,Winter
 2021,USA,surfing,M,15,no,Winter
+2021,USA,kayaking,M,45,no,Winter
 2021,Australia,swimming,F,46,no,Winter
 2021,New Zealand,swimming,M,61,no,Winter
 2021,Australia,swimming,M,58,no,Winter
@@ -250,7 +262,7 @@ year,country,activity,sex,age,fatal,season
 2020,USA,swimming,M,17,no,Autumn
 2020,Bahamas,fishing,M,15,no,Autumn
 2020,USA,surfing,M,15,no,Autumn
-2020,Egypt,snorkeling,M,15,no,Autumn
+2020,Egypt,snorkeling,F,15,no,Autumn
 2020,Australia,fishing,M,59,no,Autumn
 2020,USA,surfing,M,15,no,Autumn
 2020,Australia,surfing,M,52,yes,Autumn
@@ -296,7 +308,7 @@ year,country,activity,sex,age,fatal,season
 2020,USA,surfing,M,15,no,Summer
 2020,Bahamas,fishing,M,15,no,Spring
 2020,Australia,fishing,M,18,no,Spring
-2020,French Polynesia,snorkeling,M,15,no,Spring
+2020,French Polynesia,snorkeling,F,15,no,Spring
 2020,USA,surfing,M,26,yes,Spring
 2020,Australia,surfing,M,15,no,Spring
 2020,USA,swimming,F,57,no,Spring
@@ -335,6 +347,7 @@ year,country,activity,sex,age,fatal,season
 2019,Australia,surfing,M,17,no,Autumn
 2019,USA,surfing,M,20,no,Autumn
 2019,Australia,surfing,M,29,no,Autumn
+2019,USA,kayaking,M,51,no,Autumn
 2019,USA,surfing,M,15,no,Autumn
 2019,Australia,fishing,M,45,no,Autumn
 2019,USA,surfing,F,15,no,Autumn
@@ -387,6 +400,7 @@ year,country,activity,sex,age,fatal,season
 2019,Brazil,fishing,M,12,no,Spring
 2019,USA,fishing,M,15,no,Spring
 2019,Australia,fishing,M,18,no,Spring
+2019,USA,kayaking,F,65,no,Spring
 2019,USA,boogie boarding,F,10,no,Spring
 2019,USA,swimming,M,23,no,Spring
 2019,Australia,swimming,M,25,no,Spring
@@ -416,6 +430,7 @@ year,country,activity,sex,age,fatal,season
 2018,USA,surfing,M,48,no,Autumn
 2018,Australia,fishing,M,17,no,Autumn
 2018,Australia,surfing,M,24,no,Autumn
+2018,Australia,kayaking,M,31,no,Autumn
 2018,South Africa,fishing,M,41,no,Autumn
 2018,Australia,body boarding,M,20,no,Autumn
 2018,Bahamas,swimming,M,8,no,Autumn
@@ -513,6 +528,7 @@ year,country,activity,sex,age,fatal,season
 2017,USA,surfing,M,17,no,Autumn
 2017,USA,swimming,F,60,no,Autumn
 2017,Australia,fishing,F,15,no,Autumn
+2017,New Zealand,kayaking,M,15,no,Autumn
 2017,USA,swimming,M,15,no,Autumn
 2017,USA,surfing,M,54,no,Autumn
 2017,USA,snorkeling,F,40,no,Autumn
@@ -543,8 +559,10 @@ year,country,activity,sex,age,fatal,season
 2017,Bahamas,snorkeling,F,15,no,Summer
 2017,Bahamas,fishing,M,15,no,Summer
 2017,USA,swimming,F,8,unknown,Summer
+2017,USA,kayaking,M,40,no,Summer
 2017,USA,surfing,M,15,no,Summer
 2017,Australia,surfing,M,15,no,Summer
+2017,USA,kayaking,M,15,no,Summer
 2017,USA,swimming,M,46,no,Summer
 2017,Mexico,fishing,M,32,no,Summer
 2017,South Africa,surfing,F,13,no,Summer
@@ -578,6 +596,7 @@ year,country,activity,sex,age,fatal,season
 2017,USA,swimming,F,17,no,Spring
 2017,USA,surfing,M,58,no,Spring
 2017,Australia,body boarding,M,30,no,Spring
+2017,USA,kayaking,M,15,no,Spring
 2017,Mexico,fishing,M,15,no,Spring
 2017,Australia,snorkeling,F,15,no,Winter
 2017,Australia,surfing,M,15,no,Winter
@@ -674,7 +693,7 @@ year,country,activity,sex,age,fatal,season
 2016,USA,snorkeling,F,46,no,Spring
 2016,Australia,surfing,M,22,no,Spring
 2016,Australia,surfing,M,41,no,Spring
-2016,USA,surfing,F,15,unknown,Spring
+2016,USA,surfing,M,15,unknown,Spring
 2016,USA,surfing,M,19,no,Spring
 2016,Australia,fishing,M,15,no,Spring
 2016,Brazil,swimming,M,41,no,Spring
@@ -792,7 +811,7 @@ year,country,activity,sex,age,fatal,season
 2015,USA,swimming,M,38,unknown,Winter
 2015,Bahamas,snorkeling,F,34,no,Winter
 2015,South Africa,surfing,M,15,no,Winter
-2014,Australia,surfing,M,15,no,Winter
+2014,Australia,surfing,F,15,no,Winter
 2014,Australia,fishing,M,17,yes,Winter
 2014,South Africa,swimming,F,15,unknown,Winter
 2014,USA,surfing,M,50,no,Winter
@@ -808,15 +827,19 @@ year,country,activity,sex,age,fatal,season
 2014,Australia,surfing,M,20,no,Autumn
 2014,Australia,surfing,F,13,no,Autumn
 2014,USA,surfing,F,15,no,Autumn
+2014,Australia,kayaking,M,15,no,Autumn
 2014,USA,surfing,M,29,no,Autumn
 2014,USA,fishing,F,40,no,Autumn
 2014,USA,surfing,M,15,no,Autumn
+2014,USA,kayaking,M,15,no,Autumn
+2014,USA,kayaking,M,15,no,Autumn
 2014,USA,surfing,M,28,no,Autumn
 2014,Australia,surfing,M,23,no,Autumn
 2014,USA,surfing,M,15,no,Autumn
 2014,USA,surfing,M,15,unknown,Autumn
 2014,Australia,swimming,M,50,yes,Autumn
 2014,USA,fishing,M,43,no,Autumn
+2014,USA,kayaking,F,20,no,Autumn
 2014,USA,fishing,M,52,no,Autumn
 2014,USA,surfing,F,13,no,Summer
 2014,USA,surfing,M,17,no,Summer
@@ -858,7 +881,7 @@ year,country,activity,sex,age,fatal,season
 2014,USA,surfing,M,12,no,Spring
 2014,USA,diving,M,15,unknown,Spring
 2014,USA,swimming,F,40,no,Spring
-2014,South Africa,diving,F,15,no,Spring
+2014,South Africa,diving,M,15,no,Spring
 2014,USA,surfing,M,23,no,Spring
 2014,Australia,fishing,M,15,no,Spring
 2014,USA,swimming,M,42,no,Spring
